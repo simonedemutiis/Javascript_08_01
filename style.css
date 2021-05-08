@@ -1,0 +1,48 @@
+body {
+  background-color: aqua;
+}
+.box {
+  height: 400px;
+  width: 1000px;
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 200px;
+}
+#box1 {
+  height: 100px;
+  width: 100px;
+  border: solid 4px green;
+  background-color: orange;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+#box2 {
+  height: 100px;
+  width: 100px;
+  border: solid 4px purple;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+#input {
+  height: 30px;
+  margin-left: 20px;
+}
+#bottone {
+  height: 40px;
+  width: 150px;
+  background-color: red;
+  margin-left: 20px;
+}
+#testo {
+  text-align: center;
+}
+#risultato {
+  text-align: center;
+}
